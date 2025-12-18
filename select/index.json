@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "うろんなひと",
+  "base_artist": "笹川真生",
+  "createdAt": "2025-12-18T09:41:37.381511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うろんなひと",
+      "artist": "笹川真生",
+      "has_synced": true,
+      "path": "select/01_うろんなひと_笹川真生.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "うろんなひと",
+      "artist": "Mao Sasagawa",
+      "has_synced": true,
+      "path": "select/02_うろんなひと_Mao_Sasagawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うろんなひと",
+      "artist": "笹川真生",
+      "has_synced": false,
+      "path": "select/pl_01_うろんなひと_笹川真生.txt"
+    }
+  ]
+}
